@@ -1,7 +1,7 @@
 # dio-fcfd-M3-ebook
 Penúltimo Projeto (Formação ChatGPT for Devs - da DIO) > Projeto: E-book: EDUAFI (Estratégias e Dicas Úteis para Alcançar a Fluência em Inglês).
 
-OBS.: Vou disponibilizar os prompts usados para o projeto quando tiver feito a capa do E-book.
+OBS.: Vou disponibilizar os prompts mais básicos usados para o projeto assim que tiver feito a capa do E-book.
 
 -- --------------------
 
